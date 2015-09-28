@@ -1,3 +1,5 @@
-The OpenShift `diy` cartridge documentation can be found at:
+Scripts required to deploy meteorjs to OpenShift.  Code taken heavily from https://github.com/vladka/openshift-meteor-leaderboard-customNode
 
-http://openshift.github.io/documentation/oo_cartridge_guide.html#diy
+And modified to work on latest meteor version (1.0.4) as of this writing.
+
+Please visit tutas-labs.com for the tutorial on deploying Meteor to OpenShift
